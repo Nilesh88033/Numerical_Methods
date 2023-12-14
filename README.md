@@ -1,1 +1,1 @@
-# Numerical_Methods
+# Numerical Methods Practicals implemented in Python
